@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "361560959040",
+    "project_id": "pdqa-e20bf",
+    "storage_bucket": "pdqa-e20bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361560959040:android:2d91e6adefc3bc8b6217a5",
+        "android_client_info": {
+          "package_name": "com.example.cottondiseaseapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpZdaybEYZwgnLqByuYasEQdzJBcKc2k0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
